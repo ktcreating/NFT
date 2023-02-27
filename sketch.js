@@ -6,7 +6,7 @@ var targetX;
 var targetY;
 
 function setup() {
-  bg = loadImage('./T1BG.png');
+  bg = loadImage('./T1BG.jpg');
   
   createCanvas(600, 600);
  let canvas = createCanvas(600, 600);
