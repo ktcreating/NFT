@@ -6,8 +6,9 @@ var targetX;
 var targetY;
 
 function setup() {
+  console.log("hategithub");
   bg = loadImage('https://i.imgur.com/P17hdUO.png');
-  
+  console.log("hategithu2b");
   createCanvas(600, 600);
  let canvas = createCanvas(600, 600);
  canvas.parent('sketch-container');
