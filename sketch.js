@@ -6,7 +6,7 @@ var targetX;
 var targetY;
 
 function setup() {
-  bg = loadImage('./T1BG.jpg');
+  bg = loadImage('https://imgur.com/a/VOOIMJl');
   
   createCanvas(600, 600);
  let canvas = createCanvas(600, 600);
